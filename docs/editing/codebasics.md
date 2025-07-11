@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ma Première Page</title>
+</head>
+<body>
+    <h1>Bienvenue sur ma page web !</h1>
+    <p>Ceci est un exemple de page HTML simple.</p>
+    <a href="https://www.example.com">Cliquez ici pour visiter un site</a>
+</body>
+</html>
+
 ---
 ContentId: DE4EAE2F-4542-4363-BB74-BE47D64141E6
 DateApproved: 07/09/2025
